@@ -1,5 +1,3 @@
 # ml_college
 
-|S.no|Name|Link|
-|-|-|-|
-|0|Clean Programs|[Clean](./clean)|
+Contains Programs Uploaded straight from College's lab.

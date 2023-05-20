@@ -4,7 +4,7 @@ programs are here.
 
 |S.no|Name|Date|
 |-|-|-|
-|1|Basics(To Be Uploaded)|4/23|
+|1|[Handling Missing](./HandlingMissing.ipynb)|4/23|
 |2|[SVM](%5BSVM%5D%20Loan%20Prediction.ipynb)|4/23|
 |3|[Encoding](Encoding_WordEmbedding.ipynb)|5/23|
 |4|[Preprocessing/Textual](%5BPreprocessing%5D%20Textual%20Data.ipynb)|5/23|

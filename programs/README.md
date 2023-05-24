@@ -13,3 +13,6 @@ programs are here.
 |7|[Pipelines](./%5BPipelines%5DProgram.ipynb)|16/5/23|
 |8|[RandomForest](%5BRandomForest%5DProgram.ipynb)|16/5/23|
 |9|[SVC/DifferentLearner](%5BSVC%5DDiff%20base%20learner.ipynb)|16/5/23|
+10|[HyperParameterTuning](./[Hyper Parameter Tuning]Grid Search CV_RandomSearch.ipnyb)|24/5/23|
+11|[Cross Validation](./CrossValidation)|24/5/23|
+

@@ -16,4 +16,5 @@ programs are here.
 |10|[HyperParameterTuning](./%5BHyper%20Parameter%20Tuning%5DGrid%20Search%20CV_RandomSearch.ipynb)|24/5/23|
 |11|[Cross Validation](./CrossValidation.ipynb)|24/5/23|
 |12|[WebScrapping](./%5BWebScrapping%5D.ipynb)|29/5/23|
-
+|13|[BeautifulSoupExamples](./ExampleBS.ipnyb)|13/6/23|
+|14|[HackerNews Scraping](./HackerScrapping.ipynb)|13/6/23|

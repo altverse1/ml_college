@@ -1,7 +1,7 @@
 library(rpart)
 data('iris')
 
-indices <- sample(0:nrow(iris), 0.7*nrow(iris))
+indices <- sample(1:nrow(iris), 0.7*nrow(iris))
 train <- iris[indices, ]
 test <- iris[-indices, ]
 
